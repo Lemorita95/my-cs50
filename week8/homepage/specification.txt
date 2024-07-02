@@ -1,0 +1,4 @@
+HTML TAGs: <link> <div> <input> <span> <ul> <li> <a> <h3> <label> <img>
+CSS PROPERTIES: background-color, border-radius, height, display, flex-direction
+JAVA SCRIPT: Get user input from a color and change element to that color
+BOOTSTRAP: default styling of tags, did not apply explicitly

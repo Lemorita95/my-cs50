@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: By the difference of running time when comparing reversed/random and sorted numbers list. Sorted arrays with Bubble sort tends to be faster since there is less steps to perform.
+
+sort2 uses: Merge Sort
+
+How do you know?: Fastest algorithm of them all. Increase in numbers list size has fewer effect on algorithm running time.
+
+sort3 uses: Selection Sort
+
+How do you know?: Increse in numbers list size rapidly increases the algorithm running time.
